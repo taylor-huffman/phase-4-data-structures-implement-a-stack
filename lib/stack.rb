@@ -1,6 +1,6 @@
 class Stack
 
-    def initialize(limit = nil)
+    def initialize
         @stack = []
     end
 
